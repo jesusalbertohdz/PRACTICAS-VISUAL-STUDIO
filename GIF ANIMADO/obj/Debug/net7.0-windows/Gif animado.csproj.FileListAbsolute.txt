@@ -1,0 +1,17 @@
+C:\Users\Alumnos\source\repos\Gif animado\bin\Debug\net7.0-windows\Gif animado.exe
+C:\Users\Alumnos\source\repos\Gif animado\bin\Debug\net7.0-windows\Gif animado.deps.json
+C:\Users\Alumnos\source\repos\Gif animado\bin\Debug\net7.0-windows\Gif animado.runtimeconfig.json
+C:\Users\Alumnos\source\repos\Gif animado\bin\Debug\net7.0-windows\Gif animado.dll
+C:\Users\Alumnos\source\repos\Gif animado\bin\Debug\net7.0-windows\Gif animado.pdb
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\Gif_animado.Form1.resources
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\Gif_animado.Properties.Resources.resources
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\Gif animado.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\Gif animado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\Gif animado.AssemblyInfoInputs.cache
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\Gif animado.AssemblyInfo.cs
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\Gif animado.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\Gif animado.dll
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\refint\Gif animado.dll
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\Gif animado.pdb
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\Gif animado.genruntimeconfig.cache
+C:\Users\Alumnos\source\repos\Gif animado\obj\Debug\net7.0-windows\ref\Gif animado.dll
