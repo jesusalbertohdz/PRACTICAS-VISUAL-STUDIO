@@ -1,0 +1,10 @@
+C:\Users\Alumnos\source\repos\PRACTICA 3 JESUS\bin\Debug\PRACTICA 3 JESUS.exe.config
+C:\Users\Alumnos\source\repos\PRACTICA 3 JESUS\bin\Debug\PRACTICA 3 JESUS.exe
+C:\Users\Alumnos\source\repos\PRACTICA 3 JESUS\bin\Debug\PRACTICA 3 JESUS.pdb
+C:\Users\Alumnos\source\repos\PRACTICA 3 JESUS\obj\Debug\PRACTICA 3 JESUS.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\PRACTICA 3 JESUS\obj\Debug\PRACTICA_3_JESUS.Form1.resources
+C:\Users\Alumnos\source\repos\PRACTICA 3 JESUS\obj\Debug\PRACTICA_3_JESUS.Properties.Resources.resources
+C:\Users\Alumnos\source\repos\PRACTICA 3 JESUS\obj\Debug\PRACTICA 3 JESUS.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\PRACTICA 3 JESUS\obj\Debug\PRACTICA 3 JESUS.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\PRACTICA 3 JESUS\obj\Debug\PRACTICA 3 JESUS.exe
+C:\Users\Alumnos\source\repos\PRACTICA 3 JESUS\obj\Debug\PRACTICA 3 JESUS.pdb
